@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Sólo Java</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="cream">Crema Batida</string>
+    <string name="choc">Chocolate</string>
+    <string name="order">Ordenar</string>
+    <string name="quantity">Cantidad</string>
+    <string name="initial_order_value">2</string>
+    <string name="hint_name">Nombre</string>
+
+    <!--Name for the order summary-->
+    <string name="order_summary_name">Nombre: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_name_whipped_cream">Agregue la crema batida? <xliff:g id="addWhippedCream" example="true">%s</xliff:g></string>
+    <string name="order_summary_chocolate">Agregue el chocolate? <xliff:g id="addChocolate" example="true">%s</xliff:g></string>
+    <string name="order_summary_quantity">Cantidad: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">Total: <xliff:g id="price" example="\u20a650">%s</xliff:g></string>
+    <string name="thank_you">Gracias!</string>
+    <string name="order_summary_email_subject">Sólo Java para <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
